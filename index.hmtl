@@ -19,10 +19,10 @@
 neste local sou auxiliar na área mecânica, !</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">JOGOS</p>
+            <p class="badge bg-secondary">MECÂNICA</p>
+            <p class="badge bg-secondary">RESOLUÇÃO DE PROBLEMAS</p>
+            <p class="badge bg-secondary">LOIRO</p>
         </div>
     </header>
     <main class="container mt-5">
